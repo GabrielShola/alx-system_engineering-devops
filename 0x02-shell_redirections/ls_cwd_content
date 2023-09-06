@@ -1,0 +1,15 @@
+total 0
+drwxr-xr-x 1 reconfigure reconfigure 512 Sep  6 19:32 .
+drwxr-xr-x 1 reconfigure reconfigure 512 Sep  6 12:29 ..
+-rwxr--r-- 1 reconfigure reconfigure  32 Sep  6 12:36 0-hello_world
+-rwxr--r-- 1 reconfigure reconfigure  28 Sep  6 13:08 1-confused_smiley
+-rwxr--r-- 1 reconfigure reconfigure  28 Sep  6 18:36 2-hellofile
+-rwxr--r-- 1 reconfigure reconfigure  39 Sep  6 18:46 3-twofiles
+-rwxr--r-- 1 reconfigure reconfigure  29 Sep  6 18:49 4-lastlines
+-rwxr--r-- 1 reconfigure reconfigure  29 Sep  6 18:52 5-firstlines
+-rwxr--r-- 1 reconfigure reconfigure  36 Sep  6 19:09 6-third_line
+-rwxr--r-- 1 reconfigure reconfigure  74 Sep  6 19:24 7-file
+-rwxr--r-- 1 reconfigure reconfigure  36 Sep  6 19:32 8-cwd_state
+-rw-r--r-- 1 reconfigure reconfigure  23 Sep  6 12:40 README.md
+drwxr-xr-x 1 reconfigure reconfigure 512 Sep  6 19:03 iacta
+-rw-r--r-- 1 reconfigure reconfigure   0 Sep  6 19:32 ls_cwd_content
